@@ -7,8 +7,8 @@
     This is my web page for the Design Engineering class and I'm trying to finish my homework. I have faith that i will complete it and learn a lot of things by the end of the semester.
 
 ### Skills
-    *Software Proficiency
-    *Active Listening
+    *  Software Proficiency
+    * Active Listening
     *Planning and Coordination
     *Flexible and Adaptable
     *Attention to detail
