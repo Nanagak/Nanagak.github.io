@@ -7,25 +7,25 @@
     This is my web page for the Design Engineering class and I'm trying to finish my homework. I have faith that i will complete it and learn a lot of things by the end of the semester.
 
 ### Skills
-    * Software Proficiency
-    * Active Listening
-    * Planning and Coordination
-    * Flexible and Adaptable
-    * Attention to detail
-    * Problem-Solving
-    * Self-Motivated
+    *Software Proficiency
+    *Active Listening
+    *Planning and Coordination
+    *Flexible and Adaptable
+    *Attention to detail
+    *Problem-Solving
+    *Self-Motivated
 
 ### Activities
     Interested by all things related to Architecture and Design. 
     Also likes Arts, Fashion, Music, Movies, Travelling and discover new things.
 
 ### Softwares
-    * Autocad
-    * Sketchup Pro
-    * Rhinoceros
-    * Enscape
-    * Twinmotion
-    * Photoshop
+    *Autocad
+    *Sketchup Pro
+    *Rhinoceros
+    *Enscape
+    *Twinmotion
+    *Photoshop
 
 
 #### Contact me on gnancyolga1998@gmail.com
