@@ -1,10 +1,11 @@
 # GAKIZA NANCY
 ## Welcome to Nana's World
-    *Dream it, Wish it, Design it*
+![](9ea697324a633b2485fe385d6dca6af.jpg)
+ *Dream it, Wish it, Design it*
 
 ### Introduction
-    Graduated from the Architecture School of Ningbo university, now trying to make my way in Industrial Design Engineering at Zhejiang University.
-    This is my web page for the Design Engineering class and I'm trying to finish my homework. I have faith that i will complete it and learn a lot of things by the end of the semester.
+Graduated from the Architecture School of Ningbo university, now trying to make my way in Industrial Design Engineering at Zhejiang University.
+This is my web page for the Design Engineering class and I'm trying to finish my homework. I have faith that i will complete it and learn a lot of things by the end of the semester.
 
 ### Skills
 * Software Proficiency
@@ -16,8 +17,8 @@
 * Self-Motivated
 
 ### Activities
-    Interested by all things related to Architecture and Design. 
-    Also likes Arts, Fashion, Music, Movies, Travelling and discover new things.
+Interested by all things related to Architecture and Design. 
+Also likes Arts, Fashion, Music, Movies, Travelling and discover new things.
 
 ### Softwares
 * Autocad
